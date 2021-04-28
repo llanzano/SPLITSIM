@@ -2,7 +2,7 @@
 function []=SPLITSIM_ImageReconstruction(filename );
 
 %                                                                   
-%  Luca Lanzanò & Diaspro-Lab                  
+%  Luca LanzanÃ² & Diaspro-Lab                  
 %  Istituto Italiano di Tecnologia - Nanoscopy Department      
 %  University of Catania - Department of Physics and Astronomy    
 %
@@ -10,8 +10,8 @@ function []=SPLITSIM_ImageReconstruction(filename );
 %  Chromatin investigation in the nucleus using a phasor approach to structured illumination microscopy 
 %
 %  by: Isotta Cainero, Elena Cerutti, Mario Faretta, Gaetano Ivan Dellino, Pier Giuseppe Pelicci, Paolo Bianchini, 
-%     Giuseppe Vicidomini, Alberto Diaspro and Luca Lanzanò*
-%  submitted to Biopysical Journal
+%     Giuseppe Vicidomini, Alberto Diaspro and Luca LanzanÃ²
+%  Biopysical Journal
                     
 
 %open image stack
