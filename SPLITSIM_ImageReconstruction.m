@@ -11,7 +11,7 @@ function []=SPLITSIM_ImageReconstruction(filename );
 %
 %  by: Isotta Cainero, Elena Cerutti, Mario Faretta, Gaetano Ivan Dellino, Pier Giuseppe Pelicci, Paolo Bianchini, 
 %     Giuseppe Vicidomini, Alberto Diaspro and Luca Lanzanò
-%  Biopysical Journal
+%  Biophysical Journal 2021
                     
 
 %open image stack
